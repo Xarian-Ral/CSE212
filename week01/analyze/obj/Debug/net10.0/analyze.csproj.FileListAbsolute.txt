@@ -1,0 +1,14 @@
+C:\Progamming Files\CSE212\week01\analyze\bin\Debug\net10.0\analyze.exe
+C:\Progamming Files\CSE212\week01\analyze\bin\Debug\net10.0\analyze.deps.json
+C:\Progamming Files\CSE212\week01\analyze\bin\Debug\net10.0\analyze.runtimeconfig.json
+C:\Progamming Files\CSE212\week01\analyze\bin\Debug\net10.0\analyze.dll
+C:\Progamming Files\CSE212\week01\analyze\bin\Debug\net10.0\analyze.pdb
+C:\Progamming Files\CSE212\week01\analyze\obj\Debug\net10.0\analyze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progamming Files\CSE212\week01\analyze\obj\Debug\net10.0\analyze.AssemblyInfoInputs.cache
+C:\Progamming Files\CSE212\week01\analyze\obj\Debug\net10.0\analyze.AssemblyInfo.cs
+C:\Progamming Files\CSE212\week01\analyze\obj\Debug\net10.0\analyze.csproj.CoreCompileInputs.cache
+C:\Progamming Files\CSE212\week01\analyze\obj\Debug\net10.0\analyze.dll
+C:\Progamming Files\CSE212\week01\analyze\obj\Debug\net10.0\refint\analyze.dll
+C:\Progamming Files\CSE212\week01\analyze\obj\Debug\net10.0\analyze.pdb
+C:\Progamming Files\CSE212\week01\analyze\obj\Debug\net10.0\analyze.genruntimeconfig.cache
+C:\Progamming Files\CSE212\week01\analyze\obj\Debug\net10.0\ref\analyze.dll

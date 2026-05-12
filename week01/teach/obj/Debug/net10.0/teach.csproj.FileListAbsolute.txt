@@ -1,0 +1,14 @@
+C:\Progamming Files\CSE212\week01\teach\bin\Debug\net10.0\teach.exe
+C:\Progamming Files\CSE212\week01\teach\bin\Debug\net10.0\teach.deps.json
+C:\Progamming Files\CSE212\week01\teach\bin\Debug\net10.0\teach.runtimeconfig.json
+C:\Progamming Files\CSE212\week01\teach\bin\Debug\net10.0\teach.dll
+C:\Progamming Files\CSE212\week01\teach\bin\Debug\net10.0\teach.pdb
+C:\Progamming Files\CSE212\week01\teach\obj\Debug\net10.0\teach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progamming Files\CSE212\week01\teach\obj\Debug\net10.0\teach.AssemblyInfoInputs.cache
+C:\Progamming Files\CSE212\week01\teach\obj\Debug\net10.0\teach.AssemblyInfo.cs
+C:\Progamming Files\CSE212\week01\teach\obj\Debug\net10.0\teach.csproj.CoreCompileInputs.cache
+C:\Progamming Files\CSE212\week01\teach\obj\Debug\net10.0\teach.dll
+C:\Progamming Files\CSE212\week01\teach\obj\Debug\net10.0\refint\teach.dll
+C:\Progamming Files\CSE212\week01\teach\obj\Debug\net10.0\teach.pdb
+C:\Progamming Files\CSE212\week01\teach\obj\Debug\net10.0\teach.genruntimeconfig.cache
+C:\Progamming Files\CSE212\week01\teach\obj\Debug\net10.0\ref\teach.dll
